@@ -43,3 +43,4 @@ $ kubectl describe node
 
 - [部署 Kubernetes Dashboard](https://github.com/maguowei/k8s-cookbook#%E9%83%A8%E7%BD%B2-kubernetes-dashboard)
 - [Helm 的使用](https://github.com/maguowei/k8s-cookbook#helm)
+- test
