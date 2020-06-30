@@ -45,3 +45,4 @@ $ kubectl describe node
 - [Helm 的使用](https://github.com/maguowei/k8s-cookbook#helm)
 - test
 - test
+- test
